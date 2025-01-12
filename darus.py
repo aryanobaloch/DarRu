@@ -73,7 +73,7 @@ def menu():
     print ()
     print (AUTHOR  =  DaRu)
     print (FACEBOOK=  DaRu)
-    print (GITHUB  =    chal bay love day)
+    print (GITHUB  =    github.com/daru04)
     print ()
     print (50)
     print (A  jazz)

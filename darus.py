@@ -60,7 +60,7 @@ def cb():
     os.system('clear')
 
 
-logo =The'w Feelinglew's Boi'w Haji'w Daru here 🫦
+logo =The'w Feelinglew's Boi'w Haji'w Daru here 3:)
 back = 0
 successful = []
 cpb = []

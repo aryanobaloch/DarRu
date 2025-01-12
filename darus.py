@@ -60,7 +60,7 @@ def cb():
     os.system('clear')
 
 
-logo =Hajiw Daru
+logo =oooooo_____________________oo__oo____oo___ooooo__oo____o______oo_____oo_oo____o_oo____o__oo__oo_____oo_ooooooo_oo___o___oo__oo____oo__oo_______oo_o____oo__oooooo_____ooooo____oo____oooo________________________________
 back = 0
 successful = []
 cpb = []

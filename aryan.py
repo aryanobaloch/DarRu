@@ -103,7 +103,7 @@ logo ="""
 
 \x1b[1;34m════════════════════════════════════════════════════════
 
-\033[1;36m          𝑴𝑬𝑴𝑩𝑬𝑹 Δ>     🍒 DEMON x NOBITA x LUCIFER x  🍒
+\033[1;36m          𝑴𝑬𝑴𝑩𝑬𝑹 Δ>     🍒 DEMON x NOBITA x LUCIFER x HASU  🍒
 
 """
 

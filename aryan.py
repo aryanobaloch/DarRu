@@ -95,7 +95,7 @@ logo ="""
 
 \033[1;34m▇➤ 😘OWNER             : DARU →→→→▇➤ 😘
 
-\033[1;35m▇➤🙃 ADMIN               :  HUNAIN X ZEBI  →→→▇➤🙃
+\033[1;35m▇➤🙃 ADMIN               :  HUNAIN X ZEBI KHURRAM  →→→▇➤🙃
 
 \033[1;36m▇➤ 😁RULEX                 : DARU'S  ▇➤🙂
 

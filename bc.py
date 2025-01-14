@@ -87,7 +87,7 @@ logo ="""
 
 \033[1;34m▇➤ 😘OWNER             : DARU →→→→▇➤ 😘
 
-\033[1;35m▇➤🙃 ADMIN               :  HUNAIN X ZEBI  →→→▇➤🙃
+\033[1;35m▇➤🙃 ADMIN               :  HUNAIN X ZEBI X KHURAM  →→→▇➤🙃
 
 \033[1;36m▇➤ 😁RULEX                 : DARU'S  ▇➤🙂
 
@@ -95,7 +95,7 @@ logo ="""
 
 \x1b[1;34m════════════════════════════════════════════════════════
 
-\033[1;36m          𝑴𝑬𝑴𝑩𝑬𝑹 Δ>     🍒 DEMON x NOBITA x LUCIFER x  🍒
+\033[1;36m          𝑴𝑬𝑴𝑩𝑬𝑹 Δ>     🍒 DEMON x NOBITA x LUCIFER  x  🍒
 
 """
 
